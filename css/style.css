@@ -1,0 +1,9 @@
+.definitionText {
+    align-items: center;
+    text-align: center;
+}
+
+.proto {
+    display: flex;
+    justify-content: center;
+}
